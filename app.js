@@ -1,5 +1,5 @@
 var API_BASE_URL = 'https://www.googleapis.com/youtube/v3/search';
-var apiKey = 'AIzaSyBMGbf47ZG8lownPukGjJpJxg6OXuc-EiI';
+var apiKey = '';
 
 function getDataFromApi(searchTerm, callback) {  
   var query = {
